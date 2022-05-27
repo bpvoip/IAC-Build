@@ -1,0 +1,19 @@
+Vyatta 
+config files for each router
+add the edge router
+
+pfsense
+add second fw
+not sure if traffic will flow as basic config not set
+
+exchange
+install
+configure
+
+win10 clients
+join domain
+install office
+
+
+terraform
+everything
